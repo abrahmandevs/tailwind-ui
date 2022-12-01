@@ -3,6 +3,7 @@
 	<header></header>
 	
 	<?php include("blank-space.php") ?>
+	<?php include("cards-ui.php") ?>
 	<?php include("nav-tab.php") ?>
 	
 <?php include("footer.php") ?>
