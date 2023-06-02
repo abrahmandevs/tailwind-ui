@@ -5,7 +5,7 @@
         <div class="px-6 py-8 border rounded-md relative flex flex-col break-words gap-y-6">
             <!-- card haeder -->
             <div class="shrink-0 aspect-square">
-                <img src="images/image-icon.png" alt="image" class="w-full h-full object-content">
+                <img src="images/image-icon.png" alt="image" class="max-w-full h-auto object-cover">
             </div>
             <!-- card body -->
             <div class="flex-auto">
@@ -21,7 +21,7 @@
         <div class="px-6 py-8 border rounded-md relative flex flex-col break-words gap-y-6">
             <!-- card haeder -->
             <div class="shrink-0 aspect-square">
-                <img src="images/image-icon.png" alt="image" class="w-full h-full object-content">
+                <img src="images/image-icon.png" alt="image" class="max-w-full h-auto object-cove">
             </div>
             <!-- card body -->
             <div class="flex-auto">
@@ -37,7 +37,7 @@
         <div class="h-full px-6 py-8 border rounded-md relative flex flex-col break-words gap-y-6">
             <!-- card haeder -->
             <div class="shrink-0 aspect-square">
-                <img src="images/image-icon.png" alt="image" class="w-full h-full object-content">
+                <img src="images/image-icon.png" alt="image" class="max-w-full h-auto object-cove">
             </div>
             <!-- card body -->
             <div class="flex-auto">
@@ -53,7 +53,7 @@
         <div class="h-full px-6 py-8 border rounded-md relative flex flex-col break-words gap-y-6">
             <!-- card haeder -->
             <div class="shrink-0 aspect-square">
-                <img src="images/image-icon.png" alt="image" class="w-full h-full object-content">
+                <img src="images/image-icon.png" alt="image" class="max-w-full h-auto object-cove">
             </div>
             <!-- card body -->
             <div class="flex-auto">

@@ -6,6 +6,7 @@ live.html
 *.tmp
 *.db
 temp/
+/bach3th/*.php
 node_modules/
 /node_modules/
 
